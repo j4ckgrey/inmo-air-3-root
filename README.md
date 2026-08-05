@@ -2,6 +2,11 @@
   INMO Air3 (IMA301) — ROOT / RE-ROOT GUIDE  (standalone, run from Windows)
 ================================================================================
 
+  Artifacts are on google drive:
+  https://drive.google.com/drive/folders/1eoCtFc_UBIX7V0ZrPNM9ggo1GIoHVqvq?usp=sharing
+
+================================================================================
+  
   This kit roots the INMO Air3 by flashing a Magisk-patched boot image.
   Everything below is done by YOU from a Windows PC over USB with fastboot.
 
