@@ -134,3 +134,7 @@
     recover, and double-check ro.build.display.id == V3.17.012.
   - Verify what you flashed matches (md5 in checksums.txt).
 ================================================================================
+
+
+A little support goes a long way! If you’d like to help me keep creating, you can do so at https://ko-fi.com/j4ckgrey
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/3bfba3a1-916a-4e5a-b958-22eef30bd169" />
