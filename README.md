@@ -1,6 +1,4 @@
-================================================================================
   INMO Air3 (IMA301) — ROOT / RE-ROOT GUIDE  (standalone, run from Windows)
-================================================================================
 
   Artifacts are on google drive:
   https://drive.google.com/drive/folders/1eoCtFc_UBIX7V0ZrPNM9ggo1GIoHVqvq?usp=sharing
